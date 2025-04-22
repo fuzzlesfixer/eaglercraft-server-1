@@ -6,9 +6,10 @@ setserver="true"
 #change the following to "false" to disable updating of server jars and website
 syncweb="true"
 syncjars="true"
-#server name and motd -- DO NOT USE BACKTICKS (`) within it!! -- stuff WONT work if you DO!! ALSO do not use "${anything}" UNLESS YOU KNOW WHAT YOU ARE DOING!!
-srvname="Your Minecraft Server"
-srvmotd="Minecraft Server"
+#server name and motd -- DO NOT USE BACKTICK (`) within it!! -- stuff WONT work if you DO!! ALSO do not use "${anything}" UNLESS YOU KNOW WHAT YOU ARE DOING!!
+srvname="Lebron"
+srvmotd="Test
+"
 
 
 #DANGER!! setting the following to "true" will redownload the bukkit server! only change if you know what you are doing!
